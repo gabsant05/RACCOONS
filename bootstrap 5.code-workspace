@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../bootstrap 5"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practica 2"
+	}
+}
